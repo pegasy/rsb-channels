@@ -58,3 +58,5 @@ __Trading__
 :white_small_square: **Eidolon/Tridolon capture guide:** https://docs.google.com/document/d/1eY6ZZUbLoZwFDmf1WgdOMnM_bjG8ooqV_osHCCxu3Yw/edit#
 & https://padlet.com/alchameth/EidolonHunting 
 :white_small_square: **Cetus Wisp Spawn Locations:** and recommended farming route https://i.imgur.com/iK99WJX.png
+---
+Test Edit
