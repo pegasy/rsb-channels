@@ -1,6 +1,6 @@
 # rsb-channels
 **Editing the roles.jsonc file**
-\n**First click on the roles.jsonc file**
+n/**First click on the roles.jsonc file**
 ![Directory](https://cdn.discordapp.com/attachments/465059517550428173/548995813188173869/unknown.png)
 
 **You should see something similar to this**
