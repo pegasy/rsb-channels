@@ -5,13 +5,15 @@
 :bangbang: **Server Rules** :bangbang:
 
 :one: **Nicknames**
-For sake of convenience when recruiting and identifying people, please include your IGN in your discord nickname. Either put it in brackets (parentheses) or have the nickname be your IGN.
-E.G. `Vam(Venn2)` or `Venn2`.
+All names must be legible and pronounceable.
+No questionable avatars, usernames or nicknames. This includes, but is not limited to, political figures and NSFW symbol/names.
 
 :two: **Don’t be a dick** (Bannable offence)
-It’s clear what kind of infractions this covers. Being disrespectful and behaving badly will result in our moderators dispensing mutes, warnings and bans. We will quote this rule when doing so. This goes *especially* for anyone with a veteran tag!
+It’s clear what kind of infractions this covers. Disrespectful and poor behaviour will result in our moderators dispensing mutes, warnings and bans. We will quote this rule when doing so.
+:two:. 1
 
 :three: **Topics of politics, religion, NSFW and spam are not tolerated. If you’re not sure if something breaks this rule, just don’t post it.**
+This includes references to said politics
 Take it into DMs if you insist.
 
 :four: **Respect our team**
@@ -61,7 +63,8 @@ If you see anyone breaking the rules or behaving inappropriately, please report 
 Try to provide as much evidence as possible.
 
 If you witness inappropriate behavior from a moderator, please use this form: <https://goo.gl/forms/C6xEWArG93id8Fcf2>
-The exact answers to this form will initially be seen by a very select group of people. This group currently includes: @Tiger (Venn2)#9720, @Pegasy#0001, @Nspace#9220 
+The exact answers to this form will initially be seen by a very select group of people. This group currently includes: @Tiger (Venn2)#9720, @Pegasy#0001, @Nspace#9220, @Lord Of Erebus
+#5302, @Anson#0001 
 
 :bangbang:  **I can't see any of the text channels mentioned above** :bangbang: 
 In order to access the rest of this server, please head to #registration and type `/rank join member`. If that doesn't work or you're not sure what to do, then please PM one of our @Moderator / Server Staff and they'll help you out manually.
