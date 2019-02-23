@@ -1,0 +1,81 @@
+{
+  "547167938986377246": { //#test
+    "messages": [
+      {
+        "title": "Click on the corresponding reaction to add or remove a role.\n\n__**General**__",
+        "roles": [
+          {
+            "id": "242686500414816266", // AntiMeemer
+            "emoji": "<:deletthis:240012905502867457>",
+            "desc": "Hides <#215463649668497408>"
+          },
+          {
+            "id": "427161822462738435", // Movies
+            "emoji": ":popcorn:",
+            "desc": "Pings for rsb movie nights hosted in <#404371632744955904>"
+          },
+          {
+            "id": "540143703788879872", // Games
+            "emoji": ":video_game:",
+            "desc": "Pings for rsb game nights hosted in <#540142198721871873>"
+          }
+        ]
+      },
+      {
+        "title": "**__Recruitment__**",
+        "roles": [
+          {
+            "id": "278829351988887553", // XpFarm
+            "emoji": "<:affinity:487247360271843340>",
+            "desc": ""
+          },
+          {
+            "id": "237606955999297537", // Fissures
+            "emoji": "<:fissures:487247353313755156>",
+            "desc": ""
+          },
+          {
+            "id": "410865369482395650", // VaultFarm
+            "emoji": "<:vaultfarm:487563765676769280>",
+            "desc": ""
+          },
+          {
+            "id": "239918787623780352", // Sorties
+            "emoji": "<:sorties:487247356081733654>",
+            "desc": ""
+          },
+          {
+            "id": "436977283085893634", // SanctuaryOnslaught
+            "emoji": "<:so:487601469282058255>",
+            "desc": ""
+          },
+          {
+            "id": "436977280145817620", // EliteSanctuaryOnslaught
+            "emoji": "<:eso:487250979683696671>",
+            "desc": ""
+          },
+          {
+            "id": "500368102060457984", // Arbitrations
+            "emoji": "<:arbitration:500370294691725322>",
+            "desc": ""
+          },
+          {
+            "id": "509225070531575808", // IndexFarm
+            "emoji": "<:IndexFarm:509225393580933120>",
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "title": "Click on the corresponding reaction to add or remove a role.\n\n**__General__**",
+        "roles": [
+          {
+            "id": "278829351988887553", // XpFarm
+            "emoji": "<:affinity:487247360271843340>",
+            "desc": ""
+          }
+        ]
+      }
+    ]
+  }
+}
