@@ -2,11 +2,13 @@
   "postinfo": {
     "channelid": "547167938986377246", //#test
     "username": "Get your roles here",
-    "imageurl": ""
+    "imageurl": "",
+    "color": "#ff0099"
   },
   "messages": [
     {
-      "title": "Click on the corresponding reaction to add or remove a role.\n\n__**General**__",
+      "title": "Click on the corresponding reaction to add or remove a role.\n\n__**General**__",,
+      "color": "#00ff00",
       "roles": [
         {
           "id": "242686500414816266", // AntiMeemer
