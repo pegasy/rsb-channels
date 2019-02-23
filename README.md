@@ -6,4 +6,4 @@
 [![Image from Gyazo](https://i.gyazo.com/536d7f00cdf60fa4f963c12f66104845.gif)](https://gyazo.com/536d7f00cdf60fa4f963c12f66104845)
 
  Here's what you need to know to properly do those things, we will be looking at this snip as an example
-![Rick Astley](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+(https://www.youtube.com/watch?v=dQw4w9WgXcQ)
