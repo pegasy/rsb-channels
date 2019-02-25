@@ -1,76 +1,149 @@
-{
-  "postinfo": {
-    "channelid": "547167938986377246", //#test
-    "username": "Get your roles here",
-    "imageurl": "",
-    "color": "#ff0099"
+[
+  {
+    "title": "Click on the corresponding reaction to add or remove a role.\n\n__**General**__",
+    "color": "#00ff00",
+    "roles": [
+      {
+        "id": "242686500414816266", // AntiMeemer
+        "emoji": "<:deletthis:240012905502867457>",
+        "desc": "Hides <#215463649668497408>"
+      },
+      {
+        "id": "427161822462738435", // Movies
+        "emoji": "🍿",
+        "desc": "Pings for rsb movie nights hosted in <#404371632744955904>"
+      },
+      {
+        "id": "540143703788879872", // Games
+        "emoji": "🎮",
+        "desc": "Pings for rsb game nights hosted in <#540142198721871873>"
+      }
+    ]
   },
-  "messages": [
-    {
-      "title": "Click on the corresponding reaction to add or remove a role.\n\n__**General**__",
-      "color": "#00ff00",
-      "roles": [
-        {
-          "id": "242686500414816266", // AntiMeemer
-          "emoji": "<:deletthis:240012905502867457>",
-          "desc": "Hides <#215463649668497408>"
-        },
-        {
-          "id": "427161822462738435", // Movies
-          "emoji": ":popcorn:",
-          "desc": "Pings for rsb movie nights hosted in <#404371632744955904>"
-        },
-        {
-          "id": "540143703788879872", // Games
-          "emoji": ":video_game:",
-          "desc": "Pings for rsb game nights hosted in <#540142198721871873>"
-        }
-      ]
-    },
-    {
-      "title": "**__Recruitment__**",
-      "roles": [
-        {
-          "id": "278829351988887553", // XpFarm
-          "emoji": "<:affinity:487247360271843340>",
-          "desc": ""
-        },
-        {
-          "id": "237606955999297537", // Fissures
-          "emoji": "<:fissures:487247353313755156>",
-          "desc": ""
-        },
-        {
-          "id": "410865369482395650", // VaultFarm
-          "emoji": "<:vaultfarm:487563765676769280>",
-          "desc": ""
-        },
-        {
-          "id": "239918787623780352", // Sorties
-          "emoji": "<:sorties:487247356081733654>",
-          "desc": ""
-        },
-        {
-          "id": "436977283085893634", // SanctuaryOnslaught
-          "emoji": "<:so:487601469282058255>",
-          "desc": ""
-        },
-        {
-          "id": "436977280145817620", // EliteSanctuaryOnslaught
-          "emoji": "<:eso:487250979683696671>",
-          "desc": ""
-        },
-        {
-          "id": "500368102060457984", // Arbitrations
-          "emoji": "<:arbitration:500370294691725322>",
-          "desc": ""
-        },
-        {
-          "id": "509225070531575808", // IndexFarm
-          "emoji": "<:IndexFarm:509225393580933120>",
-          "desc": ""
-        }
-      ]
-    }
-  ]
-}
+  {
+    "title": "**__Recruitment__**",
+    "color": "#ff0099",
+    "roles": [
+      {
+        "id": "278829351988887553", // XpFarm
+        "emoji": "<:affinity:487247360271843340>",
+        "desc": ""
+      },
+      {
+        "id": "237606955999297537", // Fissures
+        "emoji": "<:fissures:487247353313755156>",
+        "desc": ""
+      },
+      {
+        "id": "410865369482395650", // VaultFarm
+        "emoji": "<:vaultfarm:487563765676769280>",
+        "desc": ""
+      },
+      {
+        "id": "239918787623780352", // Sorties
+        "emoji": "<:sorties:487247356081733654>",
+        "desc": ""
+      },
+      {
+        "id": "436977283085893634", // SanctuaryOnslaught
+        "emoji": "<:so:487601469282058255>",
+        "desc": ""
+      },
+      {
+        "id": "436977280145817620", // EliteSanctuaryOnslaught
+        "emoji": "<:eso:487250979683696671>",
+        "desc": ""
+      },
+      {
+        "id": "500368102060457984", // Arbitrations
+        "emoji": "<:arbitration:500370294691725322>",
+        "desc": ""
+      },
+      {
+        "id": "509225070531575808", // IndexFarm
+        "emoji": "<:IndexFarm:509225393580933120>",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "title": "**__Resource Farms__**",
+    "roles": [
+      {
+        "id": "227903056656728074", // Endo
+        "emoji": "<:endo:487247364596432910>",
+        "desc": ""
+      },
+      {
+        "id": "247046468144332800", // Kuva
+        "emoji": "<:kuva:487247353754157056>",
+        "desc": ""
+      },
+      {
+        "id": "403544863225937931", // Nano spores
+        "emoji": "<:nanospores:487247357268721675>",
+        "desc": ""
+      },
+      {
+        "id": "276356938231709697", // Polymer
+        "emoji": "<:polymer:487247356941828106>",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "title": "**__Open-World Recruitment__**",
+    "roles": [
+      {
+        "id": "368461318866337794", // Plains bonties
+        "emoji": "<:bounties:487247353980649487>",
+        "desc": ""
+      },
+      {
+        "id": "368461235370459137", // Eidolonhunt
+        "emoji": "<:eidolonhunt:487247353263161344>",
+        "desc": ""
+      },
+      {
+        "id": "511443613515907072", // Fortuna bounties
+        "emoji": "<:FortunaBounties:511442018409512960>",
+        "desc": ""
+      },
+      {
+        "id": "524961209695469570", // Profit taker (orbs)
+        "emoji": "<:ProfitTakerOrb:524960691300335625>",
+        "desc": ""
+      }
+    ]
+  },
+  {
+    "title": "**__Temporary Recruitment__**",
+    "roles": [
+      {
+        "id": "524700036135911424", // MesaPaFarm
+        "emoji": "1⃣",
+        "desc": ""
+      },
+      {
+        "id": "524700185511854101", // MesaPaRelicFarm
+        "emoji": "2⃣",
+        "desc": ""
+      },
+      {
+        "id": "511449723782168587", // UnvaultFarm
+        "emoji": "3⃣",
+        "desc": ""
+      },
+      {
+        "id": "511449793462009856", // UnvaultRelicFarm 
+        "emoji": "4⃣",
+        "desc": ""
+      },
+      {
+        "id": "511542450238783495", // ToroidFarm
+        "emoji": "5⃣",
+        "desc": ""
+      }
+    ]
+  }
+]
