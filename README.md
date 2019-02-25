@@ -7,3 +7,6 @@
 
  Here's what you need to know to properly do those things, we will be looking at this snip as an example
 (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+Checklist
+Update instructional readme, update roles for antianime, posssibly move rule 4 into rule 2
