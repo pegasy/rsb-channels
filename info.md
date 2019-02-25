@@ -5,7 +5,7 @@ Enjoy and have fun!
 
 ---
 
-:whitespace: 
+
 :bangbang: **Finding/Hosting a squad:** :bangbang: 
 
 Follow these steps to join squads ASAP!
@@ -32,7 +32,7 @@ You can also force push-to-talk the channel by typing `/create chat --ptt` or si
 
 ---
 
-:whitespace: 
+
 :bangbang: **Roles:** :bangbang: 
 
 `Moderator / Server Staff`: The Moderators and administrative staff of the server.
@@ -50,7 +50,7 @@ Alternatively, use `/add <rank>` or `/remove <rank>` to achieve the same effect,
 
 ---
 
-:whitespace:  
+ 
 :exclamation:  **Do you want to invite someone else to the server?** :exclamation: 
 
 There's a number of ways you can do that. 
@@ -60,7 +60,7 @@ There's a number of ways you can do that.
 
 ---
 
-:whitespace:
+
 :bangbang: **Consider this section now undergoing remodeling** :bangbang: 
 
 Raids have now been removed from the game and, as such, you may disregard most of the information in this channel. The server as a whole will be undergoing a long period of drastic changes. Please have patience as this will take a lot of time and effort.

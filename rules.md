@@ -1,7 +1,7 @@
-:whitespace: 
+
 **We are a PC community**
 
-:whitespace: 
+
 :bangbang: **Server Rules** :bangbang:
 
 :one: **Nicknames**
@@ -21,7 +21,7 @@ We work hard to ensure that everyone is provided with a suitable environment in 
 
 :five: **Do not discriminate against newcomers in-game  or on Discord.**
 ---
-:whitespace: 
+
 :six: **Voice Channel naming conventions**
 When renaming your temporary channels (see #info on how to create one, after you read **everything** in this channel) make sure to include the channel topic in the title: `Raid`, `Speedrun`, `Bus`, `Chat` (or mission type, for example “Sorties”, “Fissures”, “XP farm”, etc).
 
@@ -33,7 +33,7 @@ If your conversation starts drifting too far off topic for too long, you should 
 
 :nine: **Follow server etiquette** (see below).
 ---
-:whitespace: 
+
 :bangbang: **Etiquette** :bangbang:
 
 **NOT OK**
