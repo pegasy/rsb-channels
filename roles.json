@@ -4,17 +4,20 @@
     "color": "#00ff00",
     "roles": [
       {
-        "id": "242686500414816266", // AntiMeemer
+        "comment": "AntiMeemer",
+        "id": "242686500414816266",
         "emoji": "<:deletthis:240012905502867457>",
         "desc": "Hides <#215463649668497408>"
       },
       {
-        "id": "427161822462738435", // Movies
+        "comment": "Movies",
+        "id": "427161822462738435",
         "emoji": "🍿",
         "desc": "Pings for rsb movie nights hosted in <#404371632744955904>"
       },
       {
-        "id": "540143703788879872", // Games
+        "comment": "Games",
+        "id": "540143703788879872",
         "emoji": "🎮",
         "desc": "Pings for rsb game nights hosted in <#540142198721871873>"
       }
@@ -25,42 +28,50 @@
     "color": "#ff0099",
     "roles": [
       {
-        "id": "278829351988887553", // XpFarm
+        "comment": "XpFarm",
+        "id": "278829351988887553",
         "emoji": "<:affinity:487247360271843340>",
         "desc": ""
       },
       {
-        "id": "237606955999297537", // Fissures
+        "comment": "Fissures",
+        "id": "237606955999297537",
         "emoji": "<:fissures:487247353313755156>",
         "desc": ""
       },
       {
-        "id": "410865369482395650", // VaultFarm
+        "comment": "VaultFarm",
+        "id": "410865369482395650",
         "emoji": "<:vaultfarm:487563765676769280>",
         "desc": ""
       },
       {
-        "id": "239918787623780352", // Sorties
+        "comment": "Sorties",
+        "id": "239918787623780352",
         "emoji": "<:sorties:487247356081733654>",
         "desc": ""
       },
       {
-        "id": "436977283085893634", // SanctuaryOnslaught
+        "comment": "SanctuaryOnslaught",
+        "id": "436977283085893634",
         "emoji": "<:so:487601469282058255>",
         "desc": ""
       },
       {
-        "id": "436977280145817620", // EliteSanctuaryOnslaught
+        "comment": "EliteSanctuaryOnslaught",
+        "id": "436977280145817620",
         "emoji": "<:eso:487250979683696671>",
         "desc": ""
       },
       {
-        "id": "500368102060457984", // Arbitrations
+        "comment": "Arbitrations",
+        "id": "500368102060457984",
         "emoji": "<:arbitration:500370294691725322>",
         "desc": ""
       },
       {
-        "id": "509225070531575808", // IndexFarm
+        "comment": "IndexFarm",
+        "id": "509225070531575808",
         "emoji": "<:IndexFarm:509225393580933120>",
         "desc": ""
       }
@@ -70,22 +81,26 @@
     "title": "**__Resource Farms__**",
     "roles": [
       {
-        "id": "227903056656728074", // Endo
+        "comment": "Endo",
+        "id": "227903056656728074",
         "emoji": "<:endo:487247364596432910>",
         "desc": ""
       },
       {
-        "id": "247046468144332800", // Kuva
+        "comment": "Kuva",
+        "id": "247046468144332800",
         "emoji": "<:kuva:487247353754157056>",
         "desc": ""
       },
       {
-        "id": "403544863225937931", // Nano spores
+        "comment": "Nano spores",
+        "id": "403544863225937931",
         "emoji": "<:nanospores:487247357268721675>",
         "desc": ""
       },
       {
-        "id": "276356938231709697", // Polymer
+        "comment": "Polymer",
+        "id": "276356938231709697",
         "emoji": "<:polymer:487247356941828106>",
         "desc": ""
       }
@@ -95,22 +110,26 @@
     "title": "**__Open-World Recruitment__**",
     "roles": [
       {
-        "id": "368461318866337794", // Plains bonties
+        "comment": "Plains bonties",
+        "id": "368461318866337794",
         "emoji": "<:bounties:487247353980649487>",
         "desc": ""
       },
       {
-        "id": "368461235370459137", // Eidolonhunt
+        "comment": "Eidolonhunt",
+        "id": "368461235370459137",
         "emoji": "<:eidolonhunt:487247353263161344>",
         "desc": ""
       },
       {
-        "id": "511443613515907072", // Fortuna bounties
+        "comment": "Fortuna bounties",
+        "id": "511443613515907072",
         "emoji": "<:FortunaBounties:511442018409512960>",
         "desc": ""
       },
       {
-        "id": "524961209695469570", // Profit taker (orbs)
+        "comment": "Profit taker (orbs)",
+        "id": "524961209695469570",
         "emoji": "<:ProfitTakerOrb:524960691300335625>",
         "desc": ""
       }
@@ -120,27 +139,32 @@
     "title": "**__Temporary Recruitment__**",
     "roles": [
       {
-        "id": "524700036135911424", // MesaPaFarm
+        "comment": "MesaPaFarm",
+        "id": "524700036135911424",
         "emoji": "1⃣",
         "desc": ""
       },
       {
-        "id": "524700185511854101", // MesaPaRelicFarm
+        "comment": "MesaPaRelicFarm",
+        "id": "524700185511854101",
         "emoji": "2⃣",
         "desc": ""
       },
       {
-        "id": "511449723782168587", // UnvaultFarm
+        "comment": "UnvaultFarm",
+        "id": "511449723782168587",
         "emoji": "3⃣",
         "desc": ""
       },
       {
-        "id": "511449793462009856", // UnvaultRelicFarm 
+        "comment": "UnvaultRelicFarm",
+        "id": "511449793462009856",
         "emoji": "4⃣",
         "desc": ""
       },
       {
-        "id": "511542450238783495", // ToroidFarm
+        "comment": "ToroidFarm",
+        "id": "511542450238783495",
         "emoji": "5⃣",
         "desc": ""
       }
