@@ -1,6 +1,4 @@
 {
-  "WebhookUsername": "Roles",
-  "WebhookAvatarUrl": "https://cdn.discordapp.com/emojis/316668625404559360.png?v=1",
   "messages": [
     {
       "title": "Click on the corresponding reaction to add or remove a role.\n\n__**General**__",
