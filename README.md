@@ -23,7 +23,7 @@ To add a role, you will be using this format.
 ###      {
 ###         "comment": "",
 ###         "id": "",
-###         "emoji": "<::>",
+###         "emoji": "",
 ###         "desc": ""
 ###       }
 
@@ -41,7 +41,7 @@ ID is the role itself, you can find the role id by simply saying "/roleinfo @rol
 ![role id](https://cdn.discordapp.com/attachments/465059517550428173/549816465575116802/unknown.png)
 
 Emoji is found by putting a "\" before the emote. 
-![emote id](https://gyazo.com/25e5006590107cc9601e7e2f333e2adb)
+[![Image from Gyazo](https://i.gyazo.com/25e5006590107cc9601e7e2f333e2adb.gif)](https://gyazo.com/25e5006590107cc9601e7e2f333e2adb)
 
 Desc is just a description for roles that aren't self explanatory.
 
