@@ -1,6 +1,7 @@
+# username: Rules
+# avatarurl: https://i.imgur.com/S7JEqB9.png
 
 **We are a PC community**
-
 
 :bangbang: **Server Rules** :bangbang:
 

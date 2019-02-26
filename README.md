@@ -19,20 +19,26 @@ Here's what you need to know to properly do those things, we will be looking at 
 You should see something like this, ![Roles snip](https://cdn.discordapp.com/attachments/465059517550428173/549808419251421184/unknown.png)
 
 To add a role, you will be using this format.
-###      {
-###         "comment": "",
-###         "id": "",
-###         "emoji": "",
-###         "desc": ""
-###       }
+
+```json
+{
+  "comment": "",
+  "id": "",
+  "emoji": "",
+  "desc": ""
+}
+```
 
 after filling it out, it should look something like this
-###      {
-###        "comment": "Test",
-###        "id": "373982567600488459",
-###        "emoji": "<:test:549809152818675753>",
-###        "desc": "Example"
-###      }
+
+```json
+{
+  "comment": "Test",
+  "id": "373982567600488459",
+  "emoji": "<:test:549809152818675753>",
+  "desc": "Example"
+}
+```
 
 "Comment" is well, a comment so that the other mods know what the role being added is.
 
