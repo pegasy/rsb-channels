@@ -1,14 +1,18 @@
-[
-  {
-    "title": "By clicking the reaction on this message you agree with all the rules above",
-    "roles": [
-      {
-        "comment": "Member",
-        "id": "278992410028015616",
-        "emoji": "<:wfrsb:230260553895903233>",
-        "mode": "once",
-        "desc": ""
-      }
-    ]
-  }
-]
+{
+  "WebhookUsername": "Rules",
+  "WebhookAvatarUrl": "https://i.imgur.com/S7JEqB9.png",
+  "messages": [
+    {
+      "title": "By clicking the reaction on this message you agree with all the rules above",
+      "roles": [
+        {
+          "comment": "Member",
+          "id": "278992410028015616",
+          "emoji": "<:wfrsb:230260553895903233>",
+          "mode": "once",
+          "desc": ""
+        }
+      ]
+    }
+  ]
+}
