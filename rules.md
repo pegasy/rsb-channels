@@ -5,9 +5,9 @@
 
 :bangbang: **Server Rules** :bangbang:
 
-:one: **Nicknames**
-All names must be legible and pronounceable.
-No questionable avatars, usernames or nicknames. This includes, but is not limited to, political figures and NSFW symbol/names.
+:one: **Nicknames/Avatars**
+All names must be readable and pronounceable.
+No questionable avatars, usernames or nicknames. This includes but is not limited to political characters, NSFW symbol/names and anything deemed unfit by the moderation team. Including your IGN in your discord nickname is recommended, either in brackets (parentheses) or your IGN as it is.
 
 :two: **Don’t be a dick** (Bannable offence)
 It’s clear what kind of infractions this covers. Disrespectful and poor behaviour will result in our moderators dispensing mutes, warnings and bans. We will quote this rule when doing so.
@@ -24,7 +24,7 @@ We work hard to ensure that everyone is provided with a suitable environment in 
 ---
 
 :six: **Voice Channel naming conventions**
-When renaming your temporary channels (see #info on how to create one, after you read **everything** in this channel) make sure to include the channel topic in the title: `Raid`, `Speedrun`, `Bus`, `Chat` (or mission type, for example “Sorties”, “Fissures”, “XP farm”, etc).
+When renaming your temporary channels (see #info on how to create one, after you read **everything** in this channel) make sure to include the channel topic in the title in some form: `Raid`, `Speedrun`, `Bus`, `Chat` (or mission type, for example “Sorties”, “Fissures”, “XP farm”, etc).
 
 :seven: **Use appropriate text channels**
 Check the description of a channel and pinned messages to find out what topic it covers.
