@@ -18,6 +18,7 @@ Take it into DMs if you insist.
 We work hard to ensure that everyone is provided with a suitable environment in our server. Please do not ping the team unnecessarily, and especially not as a joke.
 
 :five: **Do not discriminate against newcomers in-game  or on Discord.**
+
 ---
 
 :six: **Voice Channel naming conventions**
