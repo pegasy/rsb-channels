@@ -31,6 +31,7 @@ If your conversation starts drifting too far off topic for too long, you should 
 :eight: **You can only get warned two times *at most* - the next offense results in an immediate ban.**
 
 :nine: **Follow server etiquette** (see below).
+
 ---
 
 :bangbang: **Etiquette** :bangbang:
@@ -56,7 +57,9 @@ If your conversation starts drifting too far off topic for too long, you should 
 :white_check_mark: It is very helpful to PM the host in-game so he can invite you via right click. Type `/w host_IGN hello` in the in-game chat.
 
 :white_check_mark: It is ok to use `@recruitment` tags as much as you want when hosting or looking for a group. However, please avoid spamming.
+
 ---
+
 :bangbang: **Reporting** :bangbang:
 If you see anyone breaking the rules or behaving inappropriately, please report them using this google form: <https://goo.gl/forms/iVxE0JbQnfbgnmXj2>
 Try to provide as much evidence as possible.
