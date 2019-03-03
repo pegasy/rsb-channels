@@ -3,8 +3,8 @@
 ---
 
 :white_small_square: **[Drop tables provided by DE](https://n8k6e2y6.ssl.hwcdn.net/repos/hnfvc0o3jnfvc873njb03enrf56.html)**  
-:white_small_square: **Warframe Hub:** various timers aswell as some other information https://hub.warframestat.us/
-:white_small_square: **Warframe Personal Progress Tracker:** https://docs.google.com/spreadsheets/d/1BctbiA-uPPuxX0DdHH5Utr_6H5Uhpu3ok71n1g2kwsM/edit?usp=sharing
+:white_small_square: **[Warframe Hub](https://hub.warframestat.us/):** various timers aswell as some other information  
+:white_small_square: **[Warframe Personal Progress Tracker](https://docs.google.com/spreadsheets/d/1BctbiA-uPPuxX0DdHH5Utr_6H5Uhpu3ok71n1g2kwsM/edit?usp=sharing)**  
 :white_small_square: **Narration's Spreadsheet Dump:** Various things, mostly Plains of Eidolon related https://docs.google.com/spreadsheets/d/1eWa-U2yMrpOUOA7O_Oc5nGvgzN_dd5EUXhtqHA7tdUA/
 :white_small_square: **Weapons used to craft other weapons:** https://i.imgur.com/6oF0qiv.png
 
