@@ -5,8 +5,8 @@
 :white_small_square: **[Drop tables provided by DE](https://n8k6e2y6.ssl.hwcdn.net/repos/hnfvc0o3jnfvc873njb03enrf56.html)**  
 :white_small_square: **[Warframe Hub](https://hub.warframestat.us/):** various timers aswell as some other information  
 :white_small_square: **[Warframe Personal Progress Tracker](https://docs.google.com/spreadsheets/d/1BctbiA-uPPuxX0DdHH5Utr_6H5Uhpu3ok71n1g2kwsM/edit?usp=sharing)**  
-:white_small_square: **Narration's Spreadsheet Dump:** Various things, mostly Plains of Eidolon related https://docs.google.com/spreadsheets/d/1eWa-U2yMrpOUOA7O_Oc5nGvgzN_dd5EUXhtqHA7tdUA/
-:white_small_square: **Weapons used to craft other weapons:** https://i.imgur.com/6oF0qiv.png
+:white_small_square: **[Narration's Spreadsheet Dump](https://docs.google.com/spreadsheets/d/1eWa-U2yMrpOUOA7O_Oc5nGvgzN_dd5EUXhtqHA7tdUA/):** Various things, mostly Plains of Eidolon related  
+:white_small_square: **[Weapons used to craft other weapons](https://i.imgur.com/6oF0qiv.png)**
 
 ---
 
@@ -14,8 +14,8 @@
 
 ---
 
-:white_small_square: **WF Handbook:** Comprehensive guide to the game https://docs.google.com/document/d/1ylw9HK2ol6yam3MMNbycbuHxjmctg3gCqsbI4yy2gK0/edit
-:white_small_square: **Kuria locations:** https://steamcommunity.com/sharedfiles/filedetails/?id=508828282
+:white_small_square: **[WF Handbook](https://docs.google.com/document/d/1ylw9HK2ol6yam3MMNbycbuHxjmctg3gCqsbI4yy2gK0/edit):** Comprehensive guide to the game  
+:white_small_square: **[Kuria locations](https://steamcommunity.com/sharedfiles/filedetails/?id=508828282)**  
 
 ---
 
@@ -23,11 +23,11 @@
 
 ---
 
-:white_small_square: **Warframe Builder:** For planning and finding builds for any equipment http://warframe-builder.com/
-:white_small_square: **Warframe Damage Chart and Recommended Builds:** https://docs.google.com/spreadsheets/d/1lXZVTR_DZAGCqxF1oZi0XyW9P2vdCK1VdmUaOCDTJgE/edit#gid=2038634271
-:white_small_square: **Damage 2.0 Table:** https://i.imgur.com/bfpmDb9.png
-:white_small_square: **Combo counter, Blood Rush, and Weeping Wounds chart:** https://imgur.com/a/IUIdx
-:white_small_square: **Ability Efficiency/Duration Chart:** for toggle/channeled abilities energy drain https://i.imgur.com/ncyYWdM.png
+:white_small_square: **[Warframe Builder](http://warframe-builder.com/):** For planning and finding builds for any equipment  
+:white_small_square: **[Warframe Damage Chart and Recommended Builds](https://docs.google.com/spreadsheets/d/1lXZVTR_DZAGCqxF1oZi0XyW9P2vdCK1VdmUaOCDTJgE/edit#gid=2038634271):**  
+:white_small_square: **[Damage 2.0 Table](https://i.imgur.com/bfpmDb9.png)**  
+:white_small_square: **[Combo counter, Blood Rush, and Weeping Wounds chart](https://imgur.com/a/IUIdx)**  
+:white_small_square: **[Ability Efficiency/Duration Chart](https://i.imgur.com/ncyYWdM.png):** for toggle/channeled abilities energy drain  
 
 ---
 
