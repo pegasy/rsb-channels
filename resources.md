@@ -36,14 +36,14 @@
 ---
 
 __Rivens__
-:white_small_square: **Riven Calculator:** You can check possible stats with various weapons https://semlar.com/rivencalc
-:white_small_square: **Riven Prices:** Where you can check the last sales of specific rivens to give you a general idea of pricing https://semlar.com/rivenprices/
+:white_small_square: **[Riven Calculator](https://semlar.com/rivencalcv):** You can check possible stats with various weapons  
+:white_small_square: **[Riven Prices](https://semlar.com/rivenprices/):** Where you can check the last sales of specific rivens to give you a general idea of pricing  
 __Trading__
-:white_small_square: **Warframe Market:** for buying and selling various items https://warframe.market/
-:white_small_square: **Official Warframe Forums Trading Post:** https://forums.warframe.com/forum/180-trading-post/
-:white_small_square: **Subreddit for trading and appraisal of rivens:** https://www.reddit.com/r/wartrade/
-:white_small_square: **Warframe Trader:** for buying and selling rivens https://www.wftrader.com/
-:white_small_square: **Riven Market:** for buying and selling rivens https://riven.market/
+:white_small_square: **[Warframe Market](https://warframe.market/):** for buying and selling various items  
+:white_small_square: **[Official Warframe Forums Trading Post](https://forums.warframe.com/forum/180-trading-post/)**  
+:white_small_square: **[Subreddit for trading and appraisal of rivens](https://www.reddit.com/r/wartrade/)**  
+:white_small_square: **[Warframe Trader](https://www.wftrader.com/)** for buying and selling rivens  
+:white_small_square: **[Riven Market](https://riven.market/)** for buying and selling rivens  
 
 ---
 
@@ -51,12 +51,11 @@ __Trading__
 
 ---
 
-:white_small_square: **Various Plains of Eidolon Maps:** https://forums.warframe.com/topic/859322-plains-of-eidolon-maps-complete-all-landmarks-resources-fishing-mining/
-:white_small_square: **Zaw Compendium:** All zaw combinations https://docs.google.com/spreadsheets/d/1oCoeJnIi1LfSZoXhRdVSP1_hTlgnt0Zdb0MsvB-zvhU/htmlview?usp=sharing&sle=true#
-:white_small_square: **Zaw Calculator:** You can add zaw pieces and see their stats https://semlar.com/zawcalc/410
-:white_small_square: **Fishing Reference:** https://hub.warframestat.us/fish
-:white_small_square: **Eidolon/Tridolon capture guide:** https://docs.google.com/document/d/1eY6ZZUbLoZwFDmf1WgdOMnM_bjG8ooqV_osHCCxu3Yw/edit#
+:white_small_square: **[Various Plains of Eidolon Maps](https://forums.warframe.com/topic/859322-plains-of-eidolon-maps-complete-all-landmarks-resources-fishing-mining/)**  
+:white_small_square: **[Zaw Compendium](https://docs.google.com/spreadsheets/d/1oCoeJnIi1LfSZoXhRdVSP1_hTlgnt0Zdb0MsvB-zvhU/htmlview?usp=sharing&sle=true#)** All zaw combinations  
+:white_small_square: **[Zaw Calculator](https://semlar.com/zawcalc/410)** You can add zaw pieces and see their stats  
+:white_small_square: **[Fishing Reference](https://hub.warframestat.us/fish)**  
+:white_small_square: **[Eidolon/Tridolon capture guide](https://docs.google.com/document/d/1eY6ZZUbLoZwFDmf1WgdOMnM_bjG8ooqV_osHCCxu3Yw/edit#)**  
 & https://padlet.com/alchameth/EidolonHunting 
-:white_small_square: **Cetus Wisp Spawn Locations:** and recommended farming route https://i.imgur.com/iK99WJX.png
+:white_small_square: **[Cetus Wisp Spawn Locations](https://i.imgur.com/iK99WJX.png)** and recommended farming route  
 ---
-Test Edit
