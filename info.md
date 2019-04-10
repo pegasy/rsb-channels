@@ -9,7 +9,7 @@ Enjoy and have fun!
 
 Follow these steps to join squads ASAP!
 
-1. *(optional)* Head to <#488157674215702528> and join one of the currently available recruiting roles.
+1. *(optional)* Head to <#551868894231527424> and join one of the currently available recruiting roles.
 
 2. Head to <#227902513070735360> and @mention one (or more) of the recruiting roles, or just wait for someone else to do the same (you will get a notification when this happens).
 For example: `Hosting @Sorties, need 3 more.`
@@ -19,7 +19,7 @@ Note that **hosting a squad doesn't mean that you need to lead it or that you ne
 
 4. If you would like to stop getting notifications, head back to <#551868894231527424> and leave the role(s) that you joined. Feel free to keep the role if you want to always be notified. They are used for notification purposes only.
 
---
+---
 
 :bangbang: **Temporary channels:** :bangbang: 
 
@@ -38,7 +38,7 @@ You can also force members to use push-to-talk in the channel by typing `/create
 `Teacher`: Experienced players that can give instructional knowledge and directions to newer players in the Warframe community.
 Read more and apply here: <https://docs.google.com/document/d/1tYz9ci2tVR82xfXm0xqKp3un5JUgCuLBiPazgktedwg/view>
 
-Some of the roles are there for notification purposes only. For example: `@Sorties`, `@XpFarm`, `@OrbHeist`
+Some of the roles are there for notification purposes only. For example: `@Sorties`, `@XpFarm`, `@Destiny`, `@Apex Legends`
 
 You can join and leave some of those roles at any time by adding reactions in <#551868894231527424>, which will toggle the role. If the reaction roles do not work, you can type `/rank join <rolename>` and `/rank leave <rolename>` in #botspam.
 You can type `/rank list` to see all the roles you can join and leave with the backup bot.
