@@ -26,8 +26,11 @@ Note that **hosting a squad doesn't mean that you need to lead it or that you ne
 Anyone can create temporary channel simply typing in #botspam one of those commands:
 `/create chat`
 `/create squad`
+
 Once you created the channel, you can rename it and set a user limit by clicking the gear wheel to the right of the name, or right click -> ‘Edit Channel’.
+
 If you want to create a locked channel, just type `--locked` after the command, then proceed to invite other users with `/invite @UserA#1234, @UserB#4321`, etc…
+
 You can also force members to use push-to-talk in the channel by typing `/create chat --ptt` or single users by typing `/invite @UserA#1234 --ptt`.
 
 ---
@@ -40,7 +43,8 @@ Read more and apply here: <https://docs.google.com/document/d/1tYz9ci2tVR82xfXm0
 
 Some of the roles are there for notification purposes only. For example: `@Sorties`, `@XpFarm`, `@Destiny`, `@Apex Legends`
 
-You can join and leave some of those roles at any time by adding reactions in <#551868894231527424>, which will toggle the role. If the reaction roles do not work, you can type `/rank join <rolename>` and `/rank leave <rolename>` in #botspam.
+You can join and leave some of those roles at any time by adding reactions in <#551868894231527424>, which will toggle the role.
+If the reaction roles do not work, you can type `/rank join <rolename>` and `/rank leave <rolename>` in <#215482906875789312>.
 You can type `/rank list` to see all the roles you can join and leave with the backup bot.
 
 ---
