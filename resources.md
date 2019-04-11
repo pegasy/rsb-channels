@@ -44,7 +44,6 @@
 :white_small_square: **[Warframe Market](https://warframe.market/):** for buying and selling various items.
 :white_small_square: **[Official Warframe Forums Trading Post](https://forums.warframe.com/forum/180-trading-post/)**  
 :white_small_square: **[Subreddit for trading and appraisal of rivens](https://www.reddit.com/r/wartrade/)**  
-:white_small_square: **[Warframe Trader](https://www.wftrader.com/)** for buying and selling rivens.
 :white_small_square: **[Riven Market](https://riven.market/)** for buying and selling rivens.
 
 ---
