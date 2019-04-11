@@ -113,6 +113,12 @@
 					"id": "276356938231709697",
 					"emoji": "<:polymer:487247356941828106>",
 					"desc": ""
+				},
+				{
+					"comment": "Toroids",
+					"id": "511542450238783495",
+					"emoji": "<:Toroid:565849676537135114>",
+					"desc": ""
 				}
 			]
 		},
@@ -147,7 +153,7 @@
 		},
 		{
 			"title": "**__Automatic Notifications__**",
-			"color": "#ffe633",
+			"color": "#ff6600",
 			"roles": [{
 					"comment": "Gift of the Lotus",
 					"id": "546074288453582862",
@@ -188,7 +194,7 @@
 		},
 		{
 			"title": "**__Miscellaneous Games__**",
-			"color": "#ff6600",
+			"color": "#f23f36",
 			"roles": [{
 					"comment": "Destiny",
 					"id": "547141932074401792",
@@ -233,12 +239,6 @@
 					"comment": "UnvaultRelicFarm",
 					"id": "511449793462009856",
 					"emoji": "4⃣",
-					"desc": ""
-				},
-				{
-					"comment": "ToroidFarm",
-					"id": "511542450238783495",
-					"emoji": "5⃣",
 					"desc": ""
 				}
 			]
