@@ -60,4 +60,3 @@
 :white_small_square: **[Eidolon/Tridolon capture guide](https://docs.google.com/document/d/1eY6ZZUbLoZwFDmf1WgdOMnM_bjG8ooqV_osHCCxu3Yw/edit#)**  
 & https://padlet.com/alchameth/EidolonHunting  
 :white_small_square: **[Cetus Wisp Spawn Locations](https://i.imgur.com/iK99WJX.png)** and recommended farming route  
----
