@@ -37,7 +37,7 @@
 ---
 
 **__Rivens__**
-:white_small_square: **[Riven Calculator](https://semlar.com/rivencalcv):** for checking possible stats with various weapons. 
+:white_small_square: **[Riven Calculator](https://semlar.com/rivencalc):** for checking possible stats with various weapons. 
 :white_small_square: **[Riven Prices](https://semlar.com/rivenprices/):** for checking the recent sales of specific rivens to give you a general idea of their pricing.
 
 **__Trading__**
