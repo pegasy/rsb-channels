@@ -81,11 +81,18 @@
           "id": "509225070531575808",
           "emoji": "<:IndexFarm:509225393580933120>",
           "desc": ""
+        },
+        {
+          "comment": "Nightwave",
+          "id": "552597223603568641",
+          "emoji": "Emoji Here",
+          "desc": ""
         }
       ]
     },
     {
       "title": "**__Resource Farms__**",
+      "color": "#33d7ff",
       "roles": [
         {
           "comment": "Endo",
@@ -115,6 +122,7 @@
     },
     {
       "title": "**__Open-World Recruitment__**",
+      "color": "#ffe633",
       "roles": [
         {
           "comment": "Plains bonties",
@@ -146,14 +154,14 @@
       "title": "**__Temporary Recruitment__**",
       "roles": [
         {
-          "comment": "MesaPaFarm",
-          "id": "524700036135911424",
+          "comment": "EquinoxPaFarm",
+          "id": "562734457967214601",
           "emoji": "1⃣",
           "desc": ""
         },
         {
-          "comment": "MesaPaRelicFarm",
-          "id": "524700185511854101",
+          "comment": "EquinoxPaRelicFarm",
+          "id": "562734530931326996",
           "emoji": "2⃣",
           "desc": ""
         },
@@ -174,12 +182,6 @@
           "id": "511542450238783495",
           "emoji": "5⃣",
           "desc": ""
-        },
-        {
-          "comment": "Test",
-          "id": "373982567600488459",
-          "emoji": "<:test:549809152818675753>",
-          "desc": "Example"
         }
       ]
     }
