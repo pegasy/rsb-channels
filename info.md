@@ -51,7 +51,7 @@ You can type `/rank list` to see all the roles you can join and leave with the b
 
 :exclamation:  **Do you want to invite someone else to the server?** :exclamation: 
 
-There's are two primary ways that you can do that. 
+There are two primary ways that you can do that:
 
 1.) Give them the permanent invite link yourself: https://discord.gg/wfrsb
 2.) Generate your own (temporary) link by hovering your mouse over <#551718261738307605> and clicking on the little box
