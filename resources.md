@@ -1,4 +1,4 @@
-![general info](https://cdn.discordapp.com/attachments/233162398389764097/431090645050851328/general_info.png)
+![general info](https://i.imgur.com/bVFUS03.png)
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-![guides](https://media.discordapp.net/attachments/233162398389764097/431091167975702548/guidesrsb.png)
+![guides](https://i.imgur.com/r2Simrp.png)
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 
-![builds](https://cdn.discordapp.com/attachments/233162398389764097/431091252138737664/buildsrsb.png)
+![builds](https://i.imgur.com/Ewx2HER.png)
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-![rivens and trading](https://cdn.discordapp.com/attachments/233162398389764097/431091333839716355/rivensandtrading.png)
+![rivens and trading](https://i.imgur.com/ddtWAFQ.png)
 
 ---
 
@@ -48,7 +48,7 @@
 
 ---
 
-![plains of eidolon](https://cdn.discordapp.com/attachments/233162398389764097/431091403502911489/plainsofeidolonrsb.png)
+![plains of eidolon](https://i.imgur.com/XX3qXxQ.png)
 
 ---
 
