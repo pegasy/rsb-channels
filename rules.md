@@ -71,6 +71,6 @@ The exact answers to this form will initially be seen by a very select group of 
 :bangbang:  **I can't see any of the text channels mentioned above** :bangbang: 
 In order to access the rest of this server, please head to <#278516212651130880> and type `/rank join member`. Alternatively, you may join the rest of the server by using the reaction below.
 
-If these methods don't work, or you're not sure what to do, then please PM one of our <@229287314449367052> and they'll help you out manually.
+If these methods don't work, or you're not sure what to do, then please PM one of our <@&229287314449367052> and they'll help you out manually.
 
 If you have any questions, feel free to ask one of our moderators or check <#272796668716515329>.
