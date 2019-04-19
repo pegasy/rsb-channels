@@ -64,10 +64,13 @@ If you see anyone breaking the rules or behaving inappropriately, please report 
 Try to provide as much evidence as possible.
 
 If you witness inappropriate behavior from a moderator, please use this form: <https://goo.gl/forms/C6xEWArG93id8Fcf2>
-The exact answers to this form will initially be seen by a very select group of people. This group currently includes: @Tiger (Venn2)#9720, @Pegasy#0001, @Nspace#9220, @Lord Of Erebus
-#5302, @Anson#0001 
+The exact answers to this form will initially be seen by a very select group of people. This group currently includes: <@140519410740887552>, <@87141336481796096>, <@121311008282247168>, <@95381086804123648>, <@126645825588822016>
+
+---
 
 :bangbang:  **I can't see any of the text channels mentioned above** :bangbang: 
-In order to access the rest of this server, please head to #registration and type `/rank join member`. If that doesn't work or you're not sure what to do, then please PM one of our @Moderator / Server Staff and they'll help you out manually.
+In order to access the rest of this server, please head to <#278516212651130880> and type `/rank join member`. Alternatively, you may join the rest of the server by using the reaction below.
 
-If you have any questions, feel free to ask one of our moderators or check #wf-help.
+If these methods don't work, or you're not sure what to do, then please PM one of our <@229287314449367052> and they'll help you out manually.
+
+If you have any questions, feel free to ask one of our moderators or check <#272796668716515329>.
