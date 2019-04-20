@@ -9,7 +9,7 @@ Enjoy and have fun!
 
 Follow these steps to join squads ASAP!
 
-1. *(optional)* Head to <#551868894231527424> and join one of the currently available recruiting roles.
+1. *(optional)* Head to <#488157674215702528> and join one of the currently available recruiting roles.
 
 2. Head to <#227902513070735360> and @mention one (or more) of the recruiting roles, or just wait for someone else to do the same (you will get a notification when this happens).
 For example: `Hosting @Sorties, need 3 more.`
@@ -17,7 +17,7 @@ Note that **hosting a squad doesn't mean that you need to lead it or that you ne
 
 3. Once there is enough of you to start a group, simply join an open channel (*avoid joining a channel before the host has advertised it in <#227902513070735360>*) or create a temporary channel and set up in there.
 
-4. If you would like to stop getting notifications, head back to <#551868894231527424> and leave the role(s) that you joined. Feel free to keep the role if you want to always be notified. They are used for notification purposes only.
+4. If you would like to stop getting notifications, head back to <#488157674215702528> and leave the role(s) that you joined. Feel free to keep the role if you want to always be notified. They are used for notification purposes only.
 
 ---
 
@@ -43,7 +43,7 @@ Read more and apply here: <https://docs.google.com/document/d/1tYz9ci2tVR82xfXm0
 
 Some of the roles are there for notification purposes only. For example: `@Sorties`, `@XpFarm`, `@Destiny`, `@Apex Legends`
 
-You can join and leave some of those roles at any time by adding reactions in <#551868894231527424>, which will toggle the role.
+You can join and leave some of those roles at any time by adding reactions in <#488157674215702528>, which will toggle the role.
 If the reaction roles do not work, you can type `/rank join <rolename>` and `/rank leave <rolename>` in <#215482906875789312>.
 You can type `/rank list` to see all the roles you can join and leave with the backup bot.
 
@@ -54,7 +54,7 @@ You can type `/rank list` to see all the roles you can join and leave with the b
 There are two primary ways that you can do that:
 
 1.) Give them the permanent invite link yourself: https://discord.gg/wfrsb
-2.) Generate your own (temporary) link by hovering your mouse over <#551718261738307605> and clicking on the little box
+2.) Generate your own (temporary) link by hovering your mouse over <#215314432887095297> and clicking on the little box
 
 ---
 
