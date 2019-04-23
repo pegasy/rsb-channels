@@ -1,4 +1,4 @@
-![general info](https://i.imgur.com/eIEfKnb.png)
+![general info](https://i.imgur.com/gChDk1F.png)
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-![guides](https://i.imgur.com/Y9B3SgI.png)
+![guides](https://i.imgur.com/aHKb1k2.png)
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 
-![builds](https://i.imgur.com/ILoFeKv.png)
+![builds](https://i.imgur.com/YdUVO8m.png)
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-![rivens and trading](https://i.imgur.com/928WdQ9.png)
+![rivens and trading](https://i.imgur.com/rxTesnx.png)
 
 ---
 
@@ -48,7 +48,7 @@
 
 ---
 
-![plains of eidolon](https://i.imgur.com/tWGcCHx.png)
+![plains of eidolon](https://i.imgur.com/Mzb6FkD.png)
 
 ---
 
