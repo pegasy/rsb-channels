@@ -38,7 +38,7 @@
 
 **__Rivens__**
 :white_small_square: **[Riven Calculator](https://semlar.com/rivencalc):** for checking possible stats with various weapons. 
-:white_small_square: **[Riven Prices](https://semlar.com/rivenprices/):** for checking the recent sales of specific rivens to give you a general idea of their pricing.
+:white_small_square: **[Riven Prices](https://altbdoor.github.io/rivens-json-browse/):** for checking the recent sales of specific weapon's rivens, to give you a general idea of their pricing.
 
 **__Trading__**
 :white_small_square: **[Warframe Market](https://warframe.market/):** for buying and selling various items.
