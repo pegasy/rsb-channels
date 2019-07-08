@@ -7,6 +7,7 @@
 :white_small_square: **[Warframe Personal Progress Tracker](https://docs.google.com/spreadsheets/d/1BctbiA-uPPuxX0DdHH5Utr_6H5Uhpu3ok71n1g2kwsM/edit?usp=sharing)**  
 :white_small_square: **[Narration's Spreadsheet Dump](https://docs.google.com/spreadsheets/d/1eWa-U2yMrpOUOA7O_Oc5nGvgzN_dd5EUXhtqHA7tdUA/):** for various things, but mostly Plains of Eidolon related. 
 :white_small_square: **[Weapons used to craft other weapons](https://i.imgur.com/6oF0qiv.png)**
+:white_small_square: **[Primed Vault](https://tenno.zone/vault)**
 
 ---
 
