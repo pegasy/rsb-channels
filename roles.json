@@ -245,92 +245,77 @@
 				{
 					"comment": "Bloody",
 					"id": "636608009388425216",
-					"emoji": "<:Bloody:526364719334817792>",
-					"mode": "single"
+					"emoji": "<:Bloody:526364719334817792>"
 				},
 				{
 					"comment": "Pumpkin",
 					"id": "636608129349451826",
-					"emoji": "<:Pumpkin:636624902119751709>",
-					"mode": "single"
+					"emoji": "<:Pumpkin:636624902119751709>"
 				},
 				{
 					"comment": "Frankenstein",
 					"id": "636608261256249359",
-					"emoji": "<:Frankenstein:636624872914812948>",
-					"mode": "single"
+					"emoji": "<:Frankenstein:636624872914812948>"
 				},
 				{
 					"comment": "Zombie",
 					"id": "636608261667422228",
-					"emoji": "<:Zombie:636625001600253952>",
-					"mode": "single"
+					"emoji": "<:Zombie:636625001600253952>"
 				},
 				{
 					"comment": "RIP",
 					"id": "636608270768930826",
-					"emoji": "<:RIP:636624912613638169>",
-					"mode": "single"
+					"emoji": "<:RIP:636624912613638169>"
 				},
 				{
 					"comment": "Ghost",
 					"id": "636608443217608714",
-					"emoji": "<:Ghost:636624889599623198>",
-					"mode": "single"
+					"emoji": "<:Ghost:636624889599623198>"
 				},
 				{
 					"comment": "Vomit",
 					"id": "636608510779588628",
-					"emoji": "<:Vomit:636624971677827086>",
-					"mode": "single"
+					"emoji": "<:Vomit:636624971677827086>"
 				},
 				{
 					"comment": "Slime",
 					"id": "636608510871994398",
-					"emoji": "<:Slime:636624938471653396>",
-					"mode": "single"
+					"emoji": "<:Slime:636624938471653396>"
 				},
 				{
 					"comment": "Trick",
 					"id": "636622034910314526",
-					"emoji": "<:Trick:636624960923762688>",
-					"mode": "single"
+					"emoji": "<:Trick:636624960923762688>"
 				},
 				{
 					"comment": "Treat",
 					"id": "636608603645673488",
-					"emoji": "<:Treat:636624949586690058>",
-					"mode": "single"
+					"emoji": "<:Treat:636624949586690058>"
 				},
 				{
 					"comment": "Death",
 					"id": "636609212436185108",
-					"emoji": "<:Death:636624833140228136>",
-					"mode": "single"
+					"emoji": "<:Death:636624833140228136>"
 				},
 				{
 					"comment": "Satan",
 					"id": "636609309240852500",
-					"emoji": "<:Satan:636624923984527370>",
-					"mode": "single"
+					"emoji": "<:Satan:636624923984527370>"
 				},
 				{
 					"comment": "Witch",
 					"id": "636609491286097970",
-					"emoji": "<:Witch:636624991533662228>",
-					"mode": "single"
+					"emoji": "<:Witch:636624991533662228>"
 				},
 				{
 					"comment": "Demon",
 					"id": "636610131710443531",
-					"emoji": "<:Demon:636624843822989337>",
-					"mode": "single"
+					"emoji": "<:Demon:636624843822989337>"
 				},
 				{
 					"comment": "Unicorn",
 					"id": "636623205016141866",
-					"emoji": "<:Unicorn:636626101275328512>",
-					"mode": "single"
+					"emoji": "<:Unicorn:636626101275328512>"
 				}
 			]
 		}
