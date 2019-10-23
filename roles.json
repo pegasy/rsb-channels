@@ -1,8 +1,10 @@
 {
-	"messages": [{
+	"messages": [
+		{
 			"title": "Click on the corresponding reaction to add or remove a role.\n\n__**General**__",
 			"color": "#00ff00",
-			"roles": [{
+			"roles": [
+				{
 					"comment": "AntiMeemer",
 					"id": "242686500414816266",
 					"emoji": "<:deletthis:240012905502867457>",
@@ -31,7 +33,8 @@
 		{
 			"title": "**__Recruitment__**",
 			"color": "#ff0099",
-			"roles": [{
+			"roles": [
+				{
 					"comment": "XpFarm",
 					"id": "278829351988887553",
 					"emoji": "<:affinity:487247360271843340>",
@@ -90,7 +93,8 @@
 		{
 			"title": "**__Resource Farms__**",
 			"color": "#33d7ff",
-			"roles": [{
+			"roles": [
+				{
 					"comment": "Endo",
 					"id": "227903056656728074",
 					"emoji": "<:endo:487247364596432910>",
@@ -125,7 +129,8 @@
 		{
 			"title": "**__Open-World Recruitment__**",
 			"color": "#ffe633",
-			"roles": [{
+			"roles": [
+				{
 					"comment": "Plains bonties",
 					"id": "368461318866337794",
 					"emoji": "<:bounties:487247353980649487>",
@@ -154,7 +159,8 @@
 		{
 			"title": "**__Automatic Notifications__**",
 			"color": "#ff6600",
-			"roles": [{
+			"roles": [
+				{
 					"comment": "Gift of the Lotus",
 					"id": "546074288453582862",
 					"emoji": "<:Lotus:565835926102736907>",
@@ -195,7 +201,8 @@
 		{
 			"title": "**__Miscellaneous Games__**",
 			"color": "#f23f36",
-			"roles": [{
+			"roles": [
+				{
 					"comment": "Destiny",
 					"id": "547141932074401792",
 					"emoji": "<:Destiny:565816354649669632>",
@@ -205,7 +212,8 @@
 		},
 		{
 			"title": "**__Temporary Recruitment__**",
-			"roles": [{
+			"roles": [
+				{
 					"comment": "AtlasPaFarm",
 					"id": "628712845474791487",
 					"emoji": "1⃣",
@@ -228,6 +236,101 @@
 					"id": "511449793462009856",
 					"emoji": "4⃣",
 					"desc": ""
+				}
+			]
+		},
+		{
+			"title": "**__Halloween Colors__**",
+			"roles": [
+				{
+					"comment": "Bloody",
+					"id": "636608009388425216",
+					"emoji": "<:Bloody:526364719334817792>",
+					"mode": "single"
+				},
+				{
+					"comment": "Pumpkin",
+					"id": "636608129349451826",
+					"emoji": "<:Pumpkin:636624902119751709>",
+					"mode": "single"
+				},
+				{
+					"comment": "Frankenstein",
+					"id": "636608261256249359",
+					"emoji": "<:Frankenstein:636624872914812948>",
+					"mode": "single"
+				},
+				{
+					"comment": "Zombie",
+					"id": "636608261667422228",
+					"emoji": "<:Zombie:636625001600253952>",
+					"mode": "single"
+				},
+				{
+					"comment": "RIP",
+					"id": "636608270768930826",
+					"emoji": "<:RIP:636624912613638169>",
+					"mode": "single"
+				},
+				{
+					"comment": "Ghost",
+					"id": "636608443217608714",
+					"emoji": "<:Ghost:636624889599623198>",
+					"mode": "single"
+				},
+				{
+					"comment": "Vomit",
+					"id": "636608510779588628",
+					"emoji": "<:Vomit:636624971677827086>",
+					"mode": "single"
+				},
+				{
+					"comment": "Slime",
+					"id": "636608510871994398",
+					"emoji": "<:Slime:636624938471653396>",
+					"mode": "single"
+				},
+				{
+					"comment": "Trick",
+					"id": "636622034910314526",
+					"emoji": "<:Trick:636624960923762688>",
+					"mode": "single"
+				},
+				{
+					"comment": "Treat",
+					"id": "636608603645673488",
+					"emoji": "<:Treat:636624949586690058>",
+					"mode": "single"
+				},
+				{
+					"comment": "Death",
+					"id": "636609212436185108",
+					"emoji": "<:Death:636624833140228136>",
+					"mode": "single"
+				},
+				{
+					"comment": "Satan",
+					"id": "636609309240852500",
+					"emoji": "<:Satan:636624923984527370>",
+					"mode": "single"
+				},
+				{
+					"comment": "Witch",
+					"id": "636609491286097970",
+					"emoji": "<:Witch:636624991533662228>",
+					"mode": "single"
+				},
+				{
+					"comment": "Demon",
+					"id": "636610131710443531",
+					"emoji": "<:Demon:636624843822989337>",
+					"mode": "single"
+				},
+				{
+					"comment": "Unicorn",
+					"id": "636623205016141866",
+					"emoji": "<:Unicorn:636626101275328512>",
+					"mode": "single"
 				}
 			]
 		}
