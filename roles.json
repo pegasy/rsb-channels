@@ -87,6 +87,12 @@
 					"id": "552597223603568641",
 					"emoji": "<:Nightwave:565818851858710538>",
 					"desc": ""
+				},
+				{
+					"comment": "TacticalAlert",
+					"id": "638095832981438464",
+					"emoji": "<:TacticalAlert:638095456412368939>",
+					"desc": "Will only be mentionable during tactical alerts"
 				}
 			]
 		},
