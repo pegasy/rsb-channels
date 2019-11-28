@@ -41,7 +41,7 @@ You can also force members to use push-to-talk in the channel by typing `/create
 `Teacher`: Experienced players that can give instructional knowledge and directions to newer players in the Warframe community.
 Read more and apply here: <https://docs.google.com/document/d/1tYz9ci2tVR82xfXm0xqKp3un5JUgCuLBiPazgktedwg/view>
 
-Some of the roles are there for notification purposes only. For example: `@Sorties`, `@XpFarm`, `@Destiny`, `@Apex Legends`
+Some of the roles are there for notification purposes only. For example: `@Sorties`, `@XpFarm`, `@Destiny`
 
 You can join and leave some of those roles at any time by adding reactions in <#488157674215702528>, which will toggle the role.
 If the reaction roles do not work, you can type `/rank join <rolename>` and `/rank leave <rolename>` in <#215482906875789312>.
