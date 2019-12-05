@@ -252,73 +252,75 @@
 					"comment": "Eggnog",
 					"id": "651518508773015566",
 					"emoji": "<:eggnog:651943631388934168>",
-					"desc": ""
+					"mode": "single"
  					},
 				{
 					"comment": "Shooting Star",
 					"id": "651515788028805120",
 					"emoji": "<:shootingstar:651941260587696138>",
-					"desc": ""
+					"mode": "single"
  					},
 				{
 					"comment": "The curse of last christmas song",
 					"id": "651517127592902684",
 					"emoji": "<:curseofthelastchristmassong:651941990317162506>",
-					"desc": ""
+					"mode": "single"
  					},
 				{
 					"comment": "Gingerbread Hulk",
 					"id": "651516118267068427",
 					"emoji": "<:gingerbread_hulk:651941439307120660>",
-					"desc": ""
+					"mode": "single"
  					},
 				{
 					"comment": "Cookie",
 					"id": "651518854975193089",
 					"emoji": "<:cookie:651944341333475348>",
-					"desc": ""
+					"mode": "single"
  					},
 				{
 					"comment": "I'm ur gift, unpack carefully",
 					"id": "651519153449992221",
 					"emoji": "<:imurgift:651942275001221132>",
+					"mode": "single"
  					},
 				{
 					"comment": "Santa Baby",
 					"id": "651516488225914882",
 					"emoji": "<:santababy:651942397495869440>",
-					"desc": ""
+					"mode": "single"
  					},
 				{
 					"comment": "Snowman",
 					"id": "651517635359670282",
 					"emoji": "<:snowman:651944118632841216>",
-					"desc": ""
+					"mode": "single"
  					},
 				{
 					"comment": "Ice Castle",
 					"id": "651518117356240904",
 					"emoji": "<:icecastle:651942647585570857>",
-					"desc": ""
+					"mode": "single"
  					},
 				{
 					"comment": "Mistletoe",
 					"id": "651517873881350144",
 					"emoji": "<:mistletoe:651942758608535562>",
-					"desc": ""
+					"mode": "single"
  					},
 				{
 					"comment": "Christmas Tree",
 					"id": "651514987805933600",
 					"emoji": "<:christmastree:651942902972416042>",
-					"desc": ""
+					"mode": "single"
  					},
 				{
 					"comment": "non believers, christmas murderers",
 					"id": "651519585916420146",
 					"emoji": "<:nonbelievers:651943017271525377>",
-					"desc": ""
+					"mode": "single"
  					}
 				]
+			}
 	]
 }
