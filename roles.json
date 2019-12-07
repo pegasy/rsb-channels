@@ -163,48 +163,6 @@
 			]
 		},
 		{
-			"title": "**__Automatic Notifications__**",
-			"color": "#ff6600",
-			"roles": [
-				{
-					"comment": "Gift of the Lotus",
-					"id": "546074288453582862",
-					"emoji": "<:Lotus:565835926102736907>",
-					"desc": ""
-				},
-				{
-					"comment": "Forma",
-					"id": "546074644315373578",
-					"emoji": "<:forma:299089439748259840>",
-					"desc": ""
-				},
-				{
-					"comment": "Reactor",
-					"id": "546074081049575444",
-					"emoji": "<:Reactor:565838697711534080>",
-					"desc": ""
-				},
-				{
-					"comment": "Catalyst",
-					"id": "546074017526710273",
-					"emoji": "<:Catalyst:565838705454219265>",
-					"desc": ""
-				},
-				{
-					"comment": "Exilus Adapter",
-					"id": "546074788670603264",
-					"emoji": "<:ExilusAdapter:565840150899195904>",
-					"desc": ""
-				},
-				{
-					"comment": "Nightmare Mods",
-					"id": "546074961689968680",
-					"emoji": "<:Nightmare:565840541812785155>",
-					"desc": ""
-				}
-			]
-		},
-		{
 			"title": "**__Miscellaneous Games__**",
 			"color": "#f23f36",
 			"roles": [
