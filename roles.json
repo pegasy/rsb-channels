@@ -93,6 +93,12 @@
 					"id": "638095832981438464",
 					"emoji": "<:TacticalAlert:638095456412368939>",
 					"desc": "Will only be mentionable during tactical alerts"
+				},
+				{
+				"comment": "Railjack",
+					"id": "656224929255129128",
+					"emoji": "<:railjack:656224157515776011>",
+					"desc": ""
 				}
 			]
 		},
