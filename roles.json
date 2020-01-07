@@ -169,6 +169,18 @@
 			]
 		},
 		{
+			"title": "**__Notifications__**\nGet pinged for stuff",
+			"color": "#2552e4",
+			"roles": [
+				{
+					"comment": "Sentient Anomaly",
+					"id": "663859897934413828",
+					"emoji": "<:sentient:664122034925862942>",
+					"desc": ""
+				}
+			]
+		},
+		{
 			"title": "**__Miscellaneous Games__**",
 			"color": "#f23f36",
 			"roles": [
