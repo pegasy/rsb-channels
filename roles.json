@@ -95,7 +95,7 @@
 					"desc": "Will only be mentionable during tactical alerts"
 				},
 				{
-				"comment": "Railjack",
+					"comment": "Railjack",
 					"id": "656224929255129128",
 					"emoji": "<:railjack:656224157515776011>",
 					"desc": ""
@@ -217,6 +217,47 @@
 					"comment": "UnvaultRelicFarm",
 					"id": "511449793462009856",
 					"emoji": "4⃣",
+					"desc": ""
+				}
+			]
+		},
+		{
+			"title": "**__Valentines__**",
+			"roles": [
+				{
+					"comment": "I am a Cutie",
+					"id": "676836136165048330",
+					"emoji": "🍪",
+					"desc": ""
+				},
+				{
+					"comment": "Romantic <3",
+					"id": "676836379753185280",
+					"emoji": "❤️",
+					"desc": ""
+				},
+				{
+					"comment": "Wanna Flirt ;)",
+					"id": "676836776043610143",
+					"emoji": "😉",
+					"desc": ""
+				},
+				{
+					"comment": "Sexy Butt :3",
+					"id": "676837204362002462",
+					"emoji": "🍑",
+					"desc": ""
+				},
+				{
+					"comment": "Romantic Forest walk",
+					"id": "676837402601324545",
+					"emoji": "🍂",
+					"desc": ""
+				},
+				{
+					"comment": "I'm sexy and I know it",
+					"id": "676837767564754994",
+					"emoji": "💃",
 					"desc": ""
 				}
 			]
