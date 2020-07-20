@@ -9,7 +9,7 @@ No questionable avatars, usernames or nicknames. This includes but is not limite
 :two: **Don’t be a dick** (Bannable offence)
 It’s clear what kind of infractions this covers. Disrespectful and poor behaviour will result in our moderators dispensing mutes, warnings and bans. We will quote this rule when doing so.
 
-:three: **Topics of religion, NSFW and spam are not tolerated. If you’re not sure if something breaks this rule, just don’t post it.**
+:three: **Topics of religion, politics, NSFW and spam are not tolerated. If you’re not sure if something breaks this rule, just don’t post it.**
 Take it into DMs if you insist.
 
 :four: **Respect our team**
